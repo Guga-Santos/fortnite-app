@@ -1,18 +1,21 @@
 {
   "files": {
-    "main.css": "/fortnite-app/static/css/main.2f5f5fba.css",
-    "main.js": "/fortnite-app/static/js/main.93807239.js",
+    "main.css": "/fortnite-app/static/css/main.2714236e.css",
+    "main.js": "/fortnite-app/static/js/main.2e188665.js",
     "static/js/787.04bd6046.chunk.js": "/fortnite-app/static/js/787.04bd6046.chunk.js",
     "static/media/character3.png": "/fortnite-app/static/media/character3.cf9502b453e2fdec01f6.png",
     "static/media/bus.png": "/fortnite-app/static/media/bus.7621ea9fcf1b9b0c2aad.png",
     "static/media/Logo.png": "/fortnite-app/static/media/Logo.ea947ff7a533b01dfbc5.png",
+    "static/media/instagram.png": "/fortnite-app/static/media/instagram.cec5736859c50a5a0dc7.png",
+    "static/media/github.png": "/fortnite-app/static/media/github.6c202c10d4b3055267bf.png",
+    "static/media/linkedin.png": "/fortnite-app/static/media/linkedin.793a76008e86eb4e8160.png",
     "index.html": "/fortnite-app/index.html",
-    "main.2f5f5fba.css.map": "/fortnite-app/static/css/main.2f5f5fba.css.map",
-    "main.93807239.js.map": "/fortnite-app/static/js/main.93807239.js.map",
+    "main.2714236e.css.map": "/fortnite-app/static/css/main.2714236e.css.map",
+    "main.2e188665.js.map": "/fortnite-app/static/js/main.2e188665.js.map",
     "787.04bd6046.chunk.js.map": "/fortnite-app/static/js/787.04bd6046.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2f5f5fba.css",
-    "static/js/main.93807239.js"
+    "static/css/main.2714236e.css",
+    "static/js/main.2e188665.js"
   ]
 }
